@@ -1,7 +1,3 @@
-Below is a README file tailored for your ARIMA and Seasonal ARIMA project based on the provided Jupyter Notebook content. This README includes an overview, prerequisites, installation instructions, usage, and additional notes.
-
----
-
 # ARIMA and Seasonal ARIMA Project
 
 ## Overview
